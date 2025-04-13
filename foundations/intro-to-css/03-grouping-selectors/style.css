@@ -1,0 +1,20 @@
+.click {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+    border-top: 3px solid grey;
+    border-left: 3px solid grey;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+}
+
+
+.click.black {
+    background-color: black;
+    color: white;
+    font-weight: 600;
+}
+
+.click.yellow {
+     background-color: yellow;
+     color: black;
+}

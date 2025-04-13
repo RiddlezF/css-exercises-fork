@@ -1,0 +1,39 @@
+/* p {
+    background-color: rgb(240, 189, 189);
+}
+
+#number2 {
+    color: blue;
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.number3 {
+    font-size: 30px;
+}
+
+#number4 {
+    background-color: rgb(146, 236, 146);
+    font-weight: bold;
+    font-size:large;
+} */
+
+.odd {
+    background-color: red;
+}
+
+
+#number2 {
+    color:blue;
+    font-size: 36px;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
